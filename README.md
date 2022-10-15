@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @D16-ShrutiFadnavis
+- 👋 Hi, I’m @ShrutiFadnavis
 - 👀 I’m interested in forming connection networks and learn about open source and cloud computing
 - 🌱 I’m currently learning open source and cloud computing
 - 📫 How to reach me mail : fadnavissm@rknec.edu
